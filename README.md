@@ -1,7 +1,3 @@
-# SkillSync
-
-**[Live Site](https://anup-barman.github.io/SkillSync/)**
-
 SkillSync helps competitive programmers find unsolved contests and problems from Codeforces and AtCoder. Enter your handle, set your filters, and get a random challenge instantly.
 
 ## What It Does
